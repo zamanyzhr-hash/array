@@ -1,0 +1,9 @@
+C:\Users\almas\Desktop\New folder\arrey\arrey\bin\Debug\arrey.exe.config
+C:\Users\almas\Desktop\New folder\arrey\arrey\bin\Debug\arrey.exe
+C:\Users\almas\Desktop\New folder\arrey\arrey\bin\Debug\arrey.pdb
+C:\Users\almas\Desktop\New folder\arrey\arrey\obj\Debug\arrey.csprojResolveAssemblyReference.cache
+C:\Users\almas\Desktop\New folder\arrey\arrey\obj\Debug\arrey.Form1.resources
+C:\Users\almas\Desktop\New folder\arrey\arrey\obj\Debug\arrey.Properties.Resources.resources
+C:\Users\almas\Desktop\New folder\arrey\arrey\obj\Debug\arrey.csproj.GenerateResource.Cache
+C:\Users\almas\Desktop\New folder\arrey\arrey\obj\Debug\arrey.exe
+C:\Users\almas\Desktop\New folder\arrey\arrey\obj\Debug\arrey.pdb
